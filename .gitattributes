@@ -1,0 +1,5 @@
+# Manejar automáticamente los finales de línea para archivos de texto
+* text=auto
+
+# Mantener los finales de línea LF para archivos específicos (por ejemplo, scripts de Bash)
+*.sh text eol=lf
